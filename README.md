@@ -1,5 +1,5 @@
-# Dream Nest
-Dream Nest is a web application for listing and booking vacation rentals built with React, Node.js, Express, MongoDB.
+# Dream Rentals
+Dream Rentals is a web application for listing and booking vacation rentals built with React, Node.js, Express, MongoDB.
 
 
 ## Getting Started
@@ -51,7 +51,7 @@ node index.js
 ```
 
 ### Usage
-Open your browser and navigate to http://localhost:3000 to access the dream nest application.
+Open your browser and navigate to http://localhost:3000 to access the dream rentals application.
 
 ### Features
 
